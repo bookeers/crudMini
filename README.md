@@ -14,3 +14,7 @@ DB 없이, DAO 클래스를 구현하고 Map을 선언하여 DB의 기능을 대
 1. 유저가 입력한 데이터의 무결성 검사 강화
 
 2. CLI가 아닌 GUI 환경을 고려해보기
+
+## Diagram
+
+![image](https://github.com/bookeers/crudMini/assets/128025654/480725ae-2155-4fd9-b80d-951b1c5f78b4)
